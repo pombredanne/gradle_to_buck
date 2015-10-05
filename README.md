@@ -21,6 +21,10 @@ IntelliJ provides tools to tease these apart.
 
 https://www.jetbrains.com/idea/help/analyzing-cyclic-dependencies.html
 
+For advice on how to resolve cyclic dependencies, see the excellent series about F# -
+http://fsharpforfunandprofit.com/posts/cyclic-dependencies/.  While these articles
+are about F#, the ideas are generally applicable.
+
 Next, run 
 `python $PATH_TO_THIS_REPO/buck_file_generator.py`
 
